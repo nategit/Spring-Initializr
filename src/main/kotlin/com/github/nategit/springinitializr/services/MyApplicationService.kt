@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nategit.springinitializr.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nategit.springinitializr.MyBundle
 
 class MyApplicationService {
 
